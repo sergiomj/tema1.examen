@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<movimientos timestamp="20131103T131805">
+
+	<movimiento>	
+		<timestamp> 20091103T131805 </timestamp>
+		<cccdestino> ES7620770024003102575761</cccdestino>
+		<variacion> +1,20 </variacion>
+		<concepto> Nomina </concepto>
+	</movimiento>	
+
+
+	<movimiento>	
+		<timestamp> 20091103T131806 </timestamp>
+		<cccdestino> ES7620770024003102575761</cccdestino>
+		<variacion> -1,10 </variacion>
+		<concepto> El cole de los niños </concepto>
+	</movimiento>	
+
+	<movimiento>	
+		<timestamp> 20101103T131807 </timestamp>
+		<cccdestino> ES7620770024003102575761</cccdestino>
+		<variacion> +2,3 </variacion>
+		<concepto> Dinero no muy legal </concepto>
+	</movimiento>	
+				
+	<movimiento>	
+		<timestamp> 20091103T131808 </timestamp>
+		<cccdestino> ES7620770024003102575762</cccdestino>
+		<variacion> +700 </variacion>
+		<concepto> Ingreso Inicial </concepto>
+	</movimiento>	
+	<movimiento>	
+		<timestamp> 20091103T131809 </timestamp>
+		<cccdestino> ES7620770024003102575762</cccdestino>
+		<variacion> -70 </variacion>
+		<concepto> Reintegro cajero </concepto>
+	</movimiento>	
+
+	<movimiento>	
+		<timestamp> 20101103T131810 </timestamp>
+		<cccdestino> ES7620770024003102575762</cccdestino>
+		<variacion>  -23</variacion>
+		<concepto> Comunidad vecinos</concepto>
+	</movimiento>	
+
+</movimientos>

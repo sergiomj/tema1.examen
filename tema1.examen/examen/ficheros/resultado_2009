@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<resultado periodo="2009">
+	<usuario>
+		<ccc>ES7620770024003102575761</ccc>
+		<balance>14767,91</balance>
+	</usuario>	
+	<usuario>
+		<ccc>ES7620770024003102575762</ccc>
+		<balance>690</balance>
+	</usuario>
+</resultado>
+

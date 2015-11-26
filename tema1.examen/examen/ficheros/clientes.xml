@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<clientes>
+ 	<cliente id="1">
+		<nif> 11111111A </nif>
+		<nombre> Pepe Rapel Flor1 </nombre>
+		<domicilio> Mi casita es la mejor1 </domicilio>
+		<ccc>ES7620770024003102575761 </ccc>
+ 	</cliente>
+ 	<cliente id="2">
+		<nif> 22222222B </nif>
+		<nombre> Pepe Rapel Martín </nombre>
+		<domicilio> Debajo de un puente </domicilio>
+		<ccc>ES7620770024003102575762 </ccc>
+ 	</cliente>
+ 	<cliente id="3">
+		<nif> 33333333B </nif>
+		<nombre> Juan Rapel Ramírez </nombre>
+		<domicilio> Debajo de un puente1 </domicilio>
+		<ccc>ES7620770024003102575763 </ccc>
+ 	</cliente>
+ 	<cliente id="4">
+		<nif> 44444444P </nif>
+		<nombre> Rafael Rapel Flores </nombre>
+		<domicilio> Debajo de un puente2 </domicilio>
+		<ccc>ES7620770024003102575764 </ccc>
+ 	</cliente>
+ 	<cliente id="5">
+		<nif> 55555555P </nif>
+		<nombre> Luis Rapel Flores </nombre>
+		<domicilio> Debajo de un puente </domicilio>
+		<ccc>ES7620770024003102575765 </ccc>
+ 	</cliente>
+
+</clientes>
+
+	
+		

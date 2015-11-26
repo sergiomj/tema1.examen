@@ -359,7 +359,7 @@ public class ClientesDao implements GenericoDao<Cliente, String> {
 				actualizar(cliente);
 
 		}
-		almacenar(listaClientes);
+		
 
 	}
 
